@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import './parsing.dart';
-import './Widget/card_widget.dart';
 import './halaman_pertama.dart';
+// import './parsing.dart';
+// import './Widget/card_widget.dart';
 // import './border.dart';
 // import './coloumn_widget.dart';
 // import './hello_world.dart';
