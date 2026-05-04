@@ -11,8 +11,18 @@ class Parsing extends StatelessWidget {
       body: Column(
         children: [
           CardWidget(judul: "Universitas Bina Sarana Informatika", icon: Icons.account_balance),
-          CardWidget(judul: "Pengenalan Flutter", icon: Icons.add_location),
-          CardWidget(judul: "Mobile Programming", icon: Icons.android)
+          CardWidget(
+            judul: "Pengenalan Flutter",
+            icon: Icons.add_home_work,
+          ), 
+          CardWidget(
+            judul: "Pengenalan Flutter",
+            icon: Icons.add_location,
+          ),
+          CardWidget(
+            judul: "Mobile Programming",
+            icon: Icons.android,
+          )
         ],
       ),
     );
